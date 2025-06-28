@@ -79,3 +79,15 @@ body {
     margin: 10px auto;
     border: 1px solid rgb(201, 199, 199);
 }
+.site-footer {
+  position: fixed;
+  bottom: 0;            
+  right: 50px;             
+  margin: 0.5em;       
+  padding: 0.25em 0.5em; 
+  font-size: 15px;     
+  color: #0d3511c9;          
+  border-top-left-radius: 4px;      
+  z-index: 1000;     
+  background: transparent;   
+}
