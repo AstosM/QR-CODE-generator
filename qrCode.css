@@ -12,7 +12,19 @@ body {
     align-items: center;
     background-color: rgb(51, 156, 156);
 }
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    border-radius: 15px;
+}
 
+h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-family: 'Times New Roman', Times, serif;
+}
 .container {
     width: 400px;
     background: rgb(154, 133, 114);
